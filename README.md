@@ -56,5 +56,5 @@ Identification of departments with the highest absenteeism.
 The dataset and problem statement were provided by Codebasics to simulate a real-world HR reporting scenario.
 
 Screenshot:
-(https://github.com/rohankshinde92/Employee-Presence-Insight-Dashboard/commit/a7c1b65ab8dc0de91fa547f3567b41e94d9af129)
+![Dashboard](https://github.com/rohankshinde92/Employee-Presence-Insight-Dashboard/commit/a7c1b65ab8dc0de91fa547f3567b41e94d9af129)
 
