@@ -12,6 +12,7 @@ Visualizations: Cards, bar charts, column charts, pie charts, and slicers
 To help HR teams monitor and analyze employee attendance trends, late coming patterns, absenteeism, and working hours. The dashboard provides actionable insights to improve workforce management.
 
 ⚙️ Process & Steps to Build the Dashboard:
+<br>
 1️⃣ Understanding the Dataset
 Explored data provided (Excel/CSV): employee attendance records, shifts, departments, and timestamps.
 Identified key fields: Employee ID, Date, In Time, Out Time, Department, Gender, etc.
@@ -53,3 +54,4 @@ Identification of departments with the highest absenteeism.
 
 📌 Project Source:
 The dataset and problem statement were provided by Codebasics to simulate a real-world HR reporting scenario.
+
